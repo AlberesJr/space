@@ -30,3 +30,11 @@ function load() {
   }
 
 load();
+
+function teste(){
+  alert("Capital code");
+}
+
+function teste2(){
+  alert("teste 2");
+}
